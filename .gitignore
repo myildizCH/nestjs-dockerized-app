@@ -1,2 +1,9 @@
-dist
+# compiled output
 node_modules
+dist
+
+# Logs 
+npm-debug.log*
+
+# OS
+.DS_Store
